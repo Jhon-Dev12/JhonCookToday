@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Jhon Ramos
 
-<!--
-**JhonCooktoday/JhonCookToday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apasionado por el desarrollo de software  
+💻 Me encanta trabajar con Java, MySQL, Angular y Node.js  
+🚀 Actualmente estoy construyendo apps web modernas  
+📚 Siempre aprendiendo algo nuevo en tecnología  
 
-Here are some ideas to get you started:
+## 🧰 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonramos&show_icons=true&theme=radical)
+
+---
+
+📫 **Contáctame:**  
+[LinkedIn](https://www.linkedin.com/in/tuusuario) • [Portafolio](https://tusitio.com) • jhon@email.com
